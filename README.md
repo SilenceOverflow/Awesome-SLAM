@@ -3,7 +3,7 @@ Resources and Resource Collections of SLAM
 
 > Last updated: April 30th, 2018. 
 
-The page is maintained by [Youjie Xia](https://github.com/YoujieXia), [Jiatian Wu](https://github.com/JiatianWu) and [Jimuyang Zhang](https://github.com/Jimuyangz). And this repo would keep constantly updated. 
+The page is maintained by [Youjie Xia](https://github.com/YoujieXia), [Jiatian Wu](https://github.com/JiatianWu), [Chi Liu](https://github.com/AmosLewis) and [Jimuyang Zhang](https://github.com/Jimuyangz). And this repo would keep constantly updated. 
 
 Welcome to contribute to this repo, if you are interested in SLAM! Feel free to contact us.
 
