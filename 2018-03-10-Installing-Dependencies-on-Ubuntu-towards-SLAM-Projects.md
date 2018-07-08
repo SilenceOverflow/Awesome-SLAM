@@ -13,35 +13,6 @@ comments: true
 The blog mainly summuries some basic configurations and installing dependencies under Ubuntu 16.04 LTS on my laptop (Thinkpad T460s) towards SLAM-related projects.
 
 
-
-
-
-
-
-
-
-
-### Packages
-#### 1. Sougou Pinyin Input - Chinese 
-First, install "GDebi" with
-
-```
-sudo apt-get install gdebi
-```
-
-Then search and download the Sougou package for Ubuntu/Debian. Next, enter the correspoding folder and use
-
-```
-sudo gdebi sogoupinyin_2.2.0.0102_amd64.deb
-```
-
-to install Sougou Pinyin Input. At last, change the keyboard settings to add the sougou pinyin.
-Remeber to restart or suspend to make it work.
-
-#### 2. C/C++ IDE
-- Clion
-- Kdevelop
-
 -------------
 
 ### Dependencies
@@ -147,6 +118,30 @@ sudo make install
 Refer to [DBoW2](https://github.com/dorian3d/DBoW2)
 
 However, it's normal that many popular SLAM repositories provide "**DBoW2**" in their **3rdparty** folder.
+
+
+
+----------
+### Misc: Packages
+#### 1. C/C++ IDE
+- Clion
+- Kdevelop
+
+#### 2. Sougou Pinyin Input - Chinese 
+First, install "GDebi" with
+
+```
+sudo apt-get install gdebi
+```
+
+Then search and download the Sougou package for Ubuntu/Debian. Next, enter the correspoding folder and use
+
+```
+sudo gdebi sogoupinyin_2.2.0.0102_amd64.deb
+```
+
+to install Sougou Pinyin Input. At last, change the keyboard settings to add the sougou pinyin.
+Remeber to restart or suspend to make it work.
 
 
 

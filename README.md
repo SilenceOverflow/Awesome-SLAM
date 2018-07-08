@@ -1,9 +1,11 @@
 # Awesome-SLAM
 Resources and Resource Collections of SLAM
 
-> Last updated: April 30th, 2018. 
+> Last updated: July 6th, 2018. 
 
 The page is maintained by [Youjie Xia](https://github.com/YoujieXia), [Jiatian Wu](https://github.com/JiatianWu), [Chi Liu](https://github.com/AmosLewis) and [Jimuyang Zhang](https://github.com/Jimuyangz). And this repo would keep constantly updated. 
+
+If you think this repo is useful, please ***watch***, ***star*** or ***fork*** it!
 
 Welcome to contribute to this repo, if you are interested in SLAM! Feel free to contact us.
 
@@ -71,10 +73,43 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 2. [AVDepthCamera](https://github.com/faceowener/AVDepthCamera)
 3. [ios11-depth-map-test](https://github.com/xiangcong/ios11-depth-map-test)
 
-
 ## Tutorials
+
+1. [Computer Vision/Geometric Fundamentals of SLAM](./Geometric-Fundamentals-of-SLAM.md)
+
+### General
+
 1. 视觉SLAM十四讲/14 lectures on visual SLAM，[English Version](https://github.com/gaoxiang12/slambook-en)，[中文版](https://github.com/gaoxiang12/slambook)
 2. [Practice of the SlamBook](https://github.com/leftthomas/SlamBook)
 3. [GraphSLAM_tutorials_code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
 4. [SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source)
+5. [ Visual SLAM/VIO 算法笔记](https://blog.csdn.net/MulinB/article/details/53421864)
 
+### Lie Algebra and Lie Groups
+
+1. [Lie groups for Computer Vision](http://ethaneade.com/lie_groups.pdf)
+2. [Lie groups for 2D and 3D Transformations](http://ethaneade.com/lie.pdf)
+3. [Hermite Splines in Lie Groups as Products of Geodesics](http://ethaneade.com/lie_spline.pdf)
+
+### Optimization Techniques 
+
+1. [Gauss-Newton/Levenberg-Marquardt Optimization](http://ethaneade.com/optimization.pdf)
+
+2. [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+
+3. [卡爾曼濾波 (Kalman Filter)](http://silverwind1982.pixnet.net/blog/post/167680859)
+
+4. [翻譯 Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](http://silverwind1982.pixnet.net/blog/post/171132644)
+
+   
+
+##  Selected Blogs
+
+1. [The Future of Real-Time SLAM and Deep Learning vs SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+2. [IMU Data Fusing: Complementary, Kalman, and Mahony Filter](http://www.olliw.eu/2013/imu-data-fusing/)
+
+   
+
+## Organizations
+
+1. [泡泡机器人](http://www.slamcn.org/index.php)
