@@ -64,6 +64,7 @@ Welcome to contribute to this repo, if you are interested in SLAM! Feel free to 
 5. [stereo-dso: Direct Sparse Odometry with Stereo Cameras](https://github.com/JiatianWu/stereo-dso)
 6. [S-PTAM: Stereo Parallel Tracking and Mapping](https://github.com/lrse/sptam)
 7. [Robust Stereo Visual Odometry](https://github.com/famoreno/stereo-vo)
+8. [ProSLAM: Graph SLAM from a Programmer's Perspective](https://gitlab.com/srrg-software/srrg_proslam)
 
 #### RGB-D Visual SLAM
 
@@ -103,6 +104,7 @@ Welcome to contribute to this repo, if you are interested in SLAM! Feel free to 
 3. [GraphSLAM_tutorials_code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
 4. [SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source)
 5. [Visual SLAM/VIO 算法笔记](https://blog.csdn.net/MulinB/article/details/53421864)
+6. [Probabilistic Robotics - Sapienza](https://sites.google.com/dis.uniroma1.it/probabilistic-robotics) by Giorgio Grisetti (2018)
 
 ### Lie Algebra and Lie Groups
 1. [Lie groups for Computer Vision](http://ethaneade.com/lie_groups.pdf)
