@@ -1,15 +1,15 @@
 # Awesome-SLAM 
 A curated list of SLAM resources
 
-#### Stay Tuned for Constant Updates
+## Stay Tuned for Constant Updates
 
 > Last updated: Mar. 29th,  2019. 
 
-The repo is maintained by [Youjie Xia](https://github.com/YoujieXia). The repo mainly summuries the awesome repositories relevant to SLAM/VO on GitHub, including those on the PC end, the mobile end and some learner-friendly tutorials. 
+The repo is maintained by [Youjie Xia](https://github.com/YoujieXia). The repo mainly summarizes the awesome repositories relevant to SLAM/VO on GitHub, including those on the PC end, the mobile end and some learner-friendly tutorials. 
 
 Regrading awesome SLAM papers, please refer to [**Awesome-SLAM-Papers**](https://github.com/YoujieXia/Awesome-SLAM-Papers).
 
-If you want to know more about dependencies/packages of SLAM systems, please refer to [Installing Dependencies on Ubuntu 16.04 LTS towards SLAM Projects (Updating)](https://youjiexia.github.io/2018/03/10/Installing-Dependencies-on-Ubuntu-towards-SLAM-Projects/).
+If you want to know more about dependencies/packages of SLAM systems, please refer to [Installing Dependencies on Ubuntu 16.04 LTS towards SLAM Projects (Updating)](2018-03-10-Installing-Dependencies-on-Ubuntu-towards-SLAM-Projects.md).
 
 If you think this repo is useful, please ***watch***, ***star*** or ***fork*** it!
 
@@ -24,17 +24,29 @@ Welcome to contribute to this repo, if you are interested in SLAM! Feel free to 
 
 ## TOC
 
-* [Hot SLAM Repos on GitHub](#hot-slam-repos-on-github)
-* [PC End SLAM](#pc-end-slam)
-  * [Visual SLAM](#visual-slam)
-  * [Visual Inertial SLAM](#visual-inertial-slam)
-* [Mobile End SLAM](#mobile-end-slam)
-* [Tutorials](#tutorials)
-	* [General](#general)
-	* [Lie Algebra and Lie Groups](#lie-algebra-and-lie-groups)
-	* [Optimization Techniques](#optimization-techniques)
-* [Selected Blogs](#selected-blogs)
-* [Organizations](#organizations)
+- [Awesome-SLAM](#awesome-slam)
+	- [Stay Tuned for Constant Updates](#stay-tuned-for-constant-updates)
+	- [TOC](#toc)
+	- [Hot SLAM Repos on GitHub](#hot-slam-repos-on-github)
+	- [PC End SLAM](#pc-end-slam)
+		- [Visual SLAM](#visual-slam)
+			- [General](#general)
+			- [Monocular Visual SLAM](#monocular-visual-slam)
+			- [Stereo Visual SLAM](#stereo-visual-slam)
+			- [RGB-D Visual SLAM](#rgb-d-visual-slam)
+		- [Visual Inertial SLAM](#visual-inertial-slam)
+			- [General](#general-1)
+			- [Monocular Visual-Inertial SLAM](#monocular-visual-inertial-slam)
+			- [Stereo Visual-Inertial SLAM](#stereo-visual-inertial-slam)
+	- [Mobile End SLAM](#mobile-end-slam)
+		- [Depth Image API with iPhone 7 Plus (or newer)](#depth-image-api-with-iphone-7-plus-or-newer)
+	- [Tutorials](#tutorials)
+		- [General](#general-2)
+		- [Lie Algebra and Lie Groups](#lie-algebra-and-lie-groups)
+		- [Optimization Techniques](#optimization-techniques)
+	- [Selected Blogs](#selected-blogs)
+	- [Research Groups](#research-groups)
+	- [Community](#community)
 
 ------
 
@@ -121,5 +133,9 @@ Welcome to contribute to this repo, if you are interested in SLAM! Feel free to 
 1. [The Future of Real-Time SLAM and Deep Learning vs SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 2. [IMU Data Fusing: Complementary, Kalman, and Mahony Filter](http://www.olliw.eu/2013/imu-data-fusing/)
 
-## Organizations
+
+## Research Groups
+TBA
+
+## Community
 1. [泡泡机器人](http://www.slamcn.org/index.php)
