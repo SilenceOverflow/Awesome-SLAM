@@ -1,10 +1,15 @@
 # Awesome-SLAM
 Learning Resources of SLAM
 
-The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub, including those on PC end, mobile end and some learner-friendly tutorials.
+The page is maintained by [Jiatian Wu](https://github.com/JiatianWu) and [Youjie Xia](https://github.com/YoujieXia). And this repo would keep constantly updated.
 
 
-### SLAM - PC End
+
+The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub, including those on the PC end, the mobile end and some learner-friendly tutorials. If you want to know more about dependencies/packages of SLAM systems, please refer to [Basic Configurations on Ubuntu 16.04 LTS for SLAM Systems](https://youjiexia.github.io/2018/03/10/Basic-Configurations-for-SLAM-on-Ubuntu/).
+
+------
+
+### SLAM - The PC End
 1. [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
 2. [ORBSLAM2_with_pointcloud_map](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map)
 3. [ PL-SLAM: a Stereo SLAM System through the Combination of Points and Line Segments](https://github.com/rubengooj/pl-slam)
@@ -15,7 +20,7 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 7. [S-PTAM: Stereo Parallel Tracking and Mapping](https://github.com/lrse/sptam)
 8. [Robust Stereo Visual Odometry](https://github.com/famoreno/stereo-vo)
 
-### SLAM - Mobile End
+### SLAM - The Mobile End
 1. [VINS-Mobile: Monocular Visual-Inertial State Estimator on Mobile Phones](https://github.com/HKUST-Aerial-Robotics/VINS-Mobile)
 2. [ORB_SLAM2-iOS](https://github.com/ygx2011/ORB_SLAM2-IOS)
 
