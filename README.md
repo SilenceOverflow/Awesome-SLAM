@@ -18,6 +18,23 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 >
 
 ------
+
+## TOC
+
+* [Hot SLAM Repos on GitHub](#hot-slam-repos-on-github)
+* [PC End SLAM](#pc-end-slam)
+  * [Visual SLAM](#visual-slam)
+  * [Visual Inertial SLAM](#visual-inertial-slam)
+* [Mobile End SLAM](#mobile-end-slam)
+* [Tutorials](#tutorials)
+	* [General](#general)
+	* [Lie Algebra and Lie Groups](#lie-algebra-and-lie-groups)
+	* [Optimization Techniques](#optimization-techniques)
+* [Selected Blogs](#selected-blogs)
+* [Organizations](#organizations)
+
+------
+
 ## Hot SLAM Repos on GitHub
 0. [Awesome-SLAM: Resources and Resource Collections of SLAM](https://github.com/YoujieXia/Awesome-SLAM)
 1. [awesome-slam: A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
@@ -26,8 +43,9 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 4. [awesome-visual-slam: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers](https://github.com/tzutalin/awesome-visual-slam)
 5. [Lee-SLAM-source: SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source)
 6. [awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
+7. [VIO-Resources](https://github.com/hhmaizi/VIO-Resources/blob/master/resources4vio)
 
-## SLAM - The PC End
+## PC End SLAM
 ### Visual SLAM
 #### General 
 1. [BreezySLAM: Simple, efficient, open-source package for Simultaneous Localization and Mapping in Python, Matlab, Java, and C++](https://github.com/simondlevy/BreezySLAM)
@@ -46,7 +64,7 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 
 #### RGB-D Visual SLAM
 
-### Visual-Inertial SLAM
+### Visual Inertial SLAM
 #### General 
 1. [maplab: An open visual-inertial mapping framework.](https://github.com/ethz-asl/maplab)
 
@@ -62,7 +80,7 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 4. [ygz-stereo-inertial: a stereo-inertial visual odometry](https://github.com/gaoxiang12/ygz-stereo-inertial)
 
 
-## SLAM - The Mobile End
+## Mobile End SLAM
 1. [VINS-Mobile: Monocular Visual-Inertial State Estimator on Mobile Phones](https://github.com/HKUST-Aerial-Robotics/VINS-Mobile)
 2. [ORB_SLAM2-iOS](https://github.com/ygx2011/ORB_SLAM2-IOS)
 3. [ORB_SLAM-iOS](https://github.com/ygx2011/ORB_SLAM-IOS)
@@ -74,42 +92,29 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 3. [ios11-depth-map-test](https://github.com/xiangcong/ios11-depth-map-test)
 
 ## Tutorials
-
 1. [Computer Vision/Geometric Fundamentals of SLAM](./Geometric-Fundamentals-of-SLAM.md)
 
 ### General
-
 1. 视觉SLAM十四讲/14 lectures on visual SLAM，[English Version](https://github.com/gaoxiang12/slambook-en)，[中文版](https://github.com/gaoxiang12/slambook)
 2. [Practice of the SlamBook](https://github.com/leftthomas/SlamBook)
 3. [GraphSLAM_tutorials_code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
 4. [SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source)
-5. [ Visual SLAM/VIO 算法笔记](https://blog.csdn.net/MulinB/article/details/53421864)
+5. [Visual SLAM/VIO 算法笔记](https://blog.csdn.net/MulinB/article/details/53421864)
 
 ### Lie Algebra and Lie Groups
-
 1. [Lie groups for Computer Vision](http://ethaneade.com/lie_groups.pdf)
 2. [Lie groups for 2D and 3D Transformations](http://ethaneade.com/lie.pdf)
 3. [Hermite Splines in Lie Groups as Products of Geodesics](http://ethaneade.com/lie_spline.pdf)
 
 ### Optimization Techniques 
-
 1. [Gauss-Newton/Levenberg-Marquardt Optimization](http://ethaneade.com/optimization.pdf)
-
 2. [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
-
 3. [卡爾曼濾波 (Kalman Filter)](http://silverwind1982.pixnet.net/blog/post/167680859)
-
 4. [翻譯 Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](http://silverwind1982.pixnet.net/blog/post/171132644)
 
-   
-
 ##  Selected Blogs
-
 1. [The Future of Real-Time SLAM and Deep Learning vs SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 2. [IMU Data Fusing: Complementary, Kalman, and Mahony Filter](http://www.olliw.eu/2013/imu-data-fusing/)
 
-   
-
 ## Organizations
-
 1. [泡泡机器人](http://www.slamcn.org/index.php)
