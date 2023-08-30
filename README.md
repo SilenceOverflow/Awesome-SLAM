@@ -1,16 +1,19 @@
-# Awesome-SLAM
-Resources and Resource Collections of SLAM
+# Awesome-SLAM 
+A curated list of SLAM resources
 
-> Last updated: July 6th, 2018. 
+#### Stay Tuned for Constant Updates
 
-The page is maintained by [Youjie Xia](https://github.com/YoujieXia), [Jiatian Wu](https://github.com/JiatianWu), [Chi Liu](https://github.com/AmosLewis) and [Jimuyang Zhang](https://github.com/Jimuyangz). And this repo would keep constantly updated. 
+> Last updated: Mar. 29th,  2019. 
+
+The repo is maintained by [Youjie Xia](https://github.com/YoujieXia). The repo mainly summuries the awesome repositories relevant to SLAM/VO on GitHub, including those on the PC end, the mobile end and some learner-friendly tutorials. 
+
+Regrading awesome SLAM papers, please refer to [**Awesome-SLAM-Papers**](https://github.com/YoujieXia/Awesome-SLAM-Papers).
+
+If you want to know more about dependencies/packages of SLAM systems, please refer to [Installing Dependencies on Ubuntu 16.04 LTS towards SLAM Projects (Updating)](https://youjiexia.github.io/2018/03/10/Installing-Dependencies-on-Ubuntu-towards-SLAM-Projects/).
 
 If you think this repo is useful, please ***watch***, ***star*** or ***fork*** it!
 
-Welcome to contribute to this repo, if you are interested in SLAM! Feel free to contact us.
-
-
-The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub, including those on the PC end, the mobile end and some learner-friendly tutorials. If you want to know more about dependencies/packages of SLAM systems, please refer to [Installing Dependencies on Ubuntu 16.04 LTS towards SLAM Projects (Updating)](https://youjiexia.github.io/2018/03/10/Installing-Dependencies-on-Ubuntu-towards-SLAM-Projects/).
+Welcome to contribute to this repo, if you are interested in SLAM! Feel free to creat a pull request or contact me.
 
 
 > 
