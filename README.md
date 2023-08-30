@@ -1,15 +1,24 @@
 # Awesome-SLAM
 Resources and Resource Collections of SLAM
 
-The page is maintained by [Jiatian Wu](https://github.com/JiatianWu) and [Youjie Xia](https://github.com/YoujieXia). And this repo would keep constantly updated. 
+> Last updated: April 10th, 2018. 
+
+The page is maintained by [Youjie Xia](https://github.com/YoujieXia), [Jiatian Wu](https://github.com/JiatianWu) and [Jimuyang Zhang](https://github.com/Jimuyangz). And this repo would keep constantly updated. 
 
 Welcome to contribute to this repo, if you are interested in SLAM! Feel free to contact us.
-
 
 
 The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub, including those on the PC end, the mobile end and some learner-friendly tutorials. If you want to know more about dependencies/packages of SLAM systems, please refer to [Installing Dependencies on Ubuntu 16.04 LTS towards SLAM Projects (Updating)](https://youjiexia.github.io/2018/03/10/Installing-Dependencies-on-Ubuntu-towards-SLAM-Projects/).
 
 ------
+## Hot SLAM Repos on GitHub
+0. [Awesome-SLAM: Resources and Resource Collections of SLAM](https://github.com/YoujieXia/Awesome-SLAM)
+1. [awesome-slam: A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
+2. [SLAM: learning SLAM,curse,paper and others](https://github.com/liulinbo/slam)
+3. [A list of current SLAM (Simultaneous Localization and Mapping) / VO (Visual Odometry) algorithms](https://github.com/kafendt/List-of-SLAM-VO-algorithms)
+4. [awesome-visual-slam: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers](https://github.com/tzutalin/awesome-visual-slam)
+5. [Lee-SLAM-source: SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source)
+6. [awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 
 ## SLAM - The PC End
 1. [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
@@ -26,13 +35,18 @@ The blog mainly summuries the awesome repositories relevant to SLAM/VO on GitHub
 ## SLAM - The Mobile End
 1. [VINS-Mobile: Monocular Visual-Inertial State Estimator on Mobile Phones](https://github.com/HKUST-Aerial-Robotics/VINS-Mobile)
 2. [ORB_SLAM2-iOS](https://github.com/ygx2011/ORB_SLAM2-IOS)
+3. [ORB_SLAM-iOS](https://github.com/ygx2011/ORB_SLAM-IOS)
+4. [MobileSLAM - LSD SLAM on Mobile Phone](https://github.com/xorthat/MobileSLAM)
+
+### Depth Image API with iPhone 7 Plus (or newer)
+1. [DepthAPISampleForiOS11](https://github.com/fromkk/DepthAPISampleForiOS11)
+2. [AVDepthCamera](https://github.com/faceowener/AVDepthCamera)
+3. [ios11-depth-map-test](https://github.com/xiangcong/ios11-depth-map-test)
+ 
 
 ## Tutorials
-1. [Awesome SLAM](https://github.com/kanster/awesome-slam)
-2. [SLAM: learning SLAM,curse,paper and others](https://github.com/liulinbo/slam)
-3. 视觉SLAM十四讲/14 lectures on visual SLAM，[English Version](https://github.com/gaoxiang12/slambook-en)，[中文版](https://github.com/gaoxiang12/slambook)
-4. [Practice of the SlamBook](https://github.com/leftthomas/SlamBook)
-5. [GraphSLAM_tutorials_code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
-6. [A list of current SLAM (Simultaneous Localization and Mapping) / VO (Visual Odometry) algorithms](https://github.com/kafendt/List-of-SLAM-VO-algorithms)
-7. [SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source)
+1. 视觉SLAM十四讲/14 lectures on visual SLAM，[English Version](https://github.com/gaoxiang12/slambook-en)，[中文版](https://github.com/gaoxiang12/slambook)
+2. [Practice of the SlamBook](https://github.com/leftthomas/SlamBook)
+3. [GraphSLAM_tutorials_code](https://github.com/HeYijia/GraphSLAM_tutorials_code)
+4. [SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source)
 
