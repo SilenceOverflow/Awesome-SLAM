@@ -26,8 +26,8 @@
 4. [OpenCV Tutorials - Feature Detection and Description - SURF](http://silverwind1982.pixnet.net/blog/post/242211004)
 5. [OpenCV Tutorials - Feature Detection and Description - FAST](http://silverwind1982.pixnet.net/blog/post/244675690)
 6. [OpenCV Tutorials - Feature Detection and Description - BRIEF](http://silverwind1982.pixnet.net/blog/post/244711150)
-7. [[OpenCV Tutorials - Image Processing - Sobel Derivatives](http://silverwind1982.pixnet.net/blog/post/243360385)
-8. 
+7. [OpenCV Tutorials - Image Processing - Sobel Derivatives](http://silverwind1982.pixnet.net/blog/post/243360385)
+
 
 ## Geometry
 
@@ -40,5 +40,5 @@
 
 1. [Pinhole Camera: Epipolar Geometry](http://silverwind1982.pixnet.net/blog/post/153221294)
 2. [Constraint in Epipolar Geometry](http://silverwind1982.pixnet.net/blog/post/193564309)
-3. 
+
 
