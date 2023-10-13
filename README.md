@@ -194,7 +194,7 @@ Welcome to contribute to this repo, if you are interested in SLAM! Feel free to 
 - [LINS](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM): LiDAR-inertial-SLAM
 - [ISCLOAM](https://github.com/wh200720041/iscloam): Intensity Scan Context based full SLAM implementation for autonomous driving
 - [MULLS](https://github.com/YuePanEdward/MULLS): Versatile LiDAR SLAM via Multi-metric Linear Least Square
-
+- [SLAMesh](https://github.com/RuanJY/SLAMesh): LiDAR SLAM builds and uses mesh maps in real-time
 ------
 <a name="LSLAM"></a>
 ## 5. Learning based SLAM
