@@ -298,6 +298,7 @@ The SLAM algorithms running on PC end are listed above by default. The section i
 
 - [TUM - Monocular Visual Odometry Dataset](https://vision.cs.tum.edu/data/datasets/mono-dataset), [[code](https://github.com/tum-vision/mono_dataset_code)]
 - [ADVIO](https://github.com/AaltoVision/ADVIO): An Authentic Dataset for Visual-Inertial Odometry
+- [Monado SLAM Dataset (MSD)](https://huggingface.co/datasets/collabora/monado-slam-datasets), [[paper](https://arxiv.org/abs/2508.00088)]: A VIO/SLAM dataset (IROS 2025) with 5h15m of footage recorded from 3 VR headsets (Valve Index, Samsung Odyssey+, HP Reverb G2) inside an apartment, featuring dense ground truth from 3 lighthouse base stations. Covers challenging real-world scenarios such as high-intensity motions, dynamic occlusions, low-textured areas, and adverse lighting conditions. Released under CC BY 4.0.
 
 ------
 <a name="Tutorials"></a>
