@@ -236,6 +236,7 @@ The SLAM algorithms using conventional methods are listed above by default. The 
 
 <a name="DeepFeat"></a>
 ### 5.3 Deep Features
+- [LDO](https://github.com/Elaybarnoam/LDO): Camera-only visual loop-detection research software combining MegaLoc retrieval and SuperPoint/LightGlue matching with independent geometric correspondence evaluation.
 - [GCNv2 SLAM](https://github.com/jiexiong2016/GCNv2_SLAM): Real-time SLAM system with deep features
 - [FCGF](https://github.com/chrischoy/FCGF): Fully Convolutional Geometric Features: Fast and accurate 3D features for registration and correspondence
 - [Deep Image Retrieval](https://github.com/naver/deep-image-retrieval)
