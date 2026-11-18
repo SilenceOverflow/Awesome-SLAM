@@ -376,6 +376,7 @@ The SLAM algorithms running on PC end are listed above by default. The section i
 - [IMU-TK](https://github.com/Kyle-ak/imu_tk): Inertial Measurement Unit ToolKit
 - [crisp](https://github.com/hovren/crisp): Camera-to-IMU calibration and synchronization toolbox
 - [VersaVIS](https://github.com/ethz-asl/versavis): An Open Versatile Multi-Camera Visual-Inertial Sensor Suite
+- [OpenMVIS](https://github.com/openmvis/openmvis): Multi-camera, multi-IMU calibration toolbox, including rolling-shutter readout and camera-IMU time offset
 
 <a name="RANSAC"></a>
 ### 8.6 RANSAC
